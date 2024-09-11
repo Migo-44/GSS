@@ -79,7 +79,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+The p-value= 0.02022 which is lower than 0.05 so we reject $H_0$
 
+We conclude that gun owners are more likey to support capital punishment than non-gun owners
 
 #  Question 2
 
