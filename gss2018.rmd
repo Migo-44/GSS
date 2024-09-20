@@ -81,7 +81,7 @@ fisher.test(table1)
 
 The p-value= 0.02022 which is lower than 0.05 so we reject $H_0$
 
-We conclude that gun owners are more likey to support capital punishment than non-gun owners
+We conclude that gun owners are more likely to support capital punishment than non-gun owners.
 
 #  Question 2
 
@@ -90,6 +90,14 @@ We conclude that gun owners are more likey to support capital punishment than no
 Is there a difference in years of education (EDUC) between the those who did or did not vote in 2012 (VOTE12)?
 
 ## Methods
+
+$H_0$: There isn't a difference in years of education between those who did and didn't vote in 2012.
+
+$H_A$: There is a difference in years of education between those who did and didn't vote in 2012.
+
+EDUC is numerical   
+VOTE12 is categorical      
+Thus we use Numerical~Cat     
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
