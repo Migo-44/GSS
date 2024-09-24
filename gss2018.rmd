@@ -114,7 +114,7 @@ Thus we use Numerical~Cat
 plot(EDUC~VOTE12,data=GSSdata)
 ```
 
-
+The boxplot shows that on average, those who voted in 2012 have more years of education than those who did not vote in 2012.
 
 
 #### Numerical Descriptive Results
