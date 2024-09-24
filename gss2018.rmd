@@ -149,6 +149,13 @@ Determine if a persons performance on the wordsum test (WORDSUM) is independent 
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+$H_0$: There is no relation between a persons performance on the wordsum test and their level of schooling.   
+$H_A$: A persons performance on the wordsum test is dependent on their level of schooling.  
+
+WORDSUM~ is numerical  
+DEGREE~ is categorical  
+Thus we use Numerical~Cat  
+
 ##Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
