@@ -203,3 +203,6 @@ The tukey test shows that there is a relation between a persons score on the tuk
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+We wanted to see of there was a relation between a persons performance on the wordsum test and their level of schooling.   
+We got the data from a sample in Georgetown.  
+We conclude that a person with a higher level of schooling will spell more words correctly than a person with a low level of schooling.   
